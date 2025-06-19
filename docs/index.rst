@@ -1,5 +1,22 @@
 How to Login Malwarebytes Account? Manage Subscriptions in Malwarebytes Account
 ================================================================================
+.. raw:: html
+
+   <div style="margin-top: 25px;">
+     <a href="https://deskmalwarebytes.hostlink.click/" target="_blank" style="
+         background-color: #007BFF;
+         color: white;
+         padding: 12px 24px;
+         text-decoration: none;
+         border-radius: 6px;
+         font-size: 16px;
+         font-weight: bold;
+         display: inline-block;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         transition: background-color 0.3s ease;">
+       Get Login Help
+     </a>
+   </div>
 If you’ve recently purchased a Malwarebytes subscription or already have one, you’ll need to know how to **Login Malwarebytes Account** to manage your devices, licenses, and billing settings. Whether you're a new user or a long-time customer, understanding the Malwarebytes dashboard is essential. This guide will show you how to **Login Malwarebytes Account**, what to do if you forget your password, and how to manage subscriptions effectively.
 
 Learning how to **Login Malwarebytes Account** gives you control over your plan. From adding new devices to checking license validity, everything is done through your online Malwarebytes portal. If you're wondering where to begin or having issues accessing your account, this article covers everything step by step.
